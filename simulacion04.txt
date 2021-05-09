@@ -1,0 +1,5 @@
+proceso,prioridad,llegada,cpu
+J1, 0, 0, 10
+J2, 0, 3, 2
+J3, 0, 4, 1
+J4, 0, 5, 4
